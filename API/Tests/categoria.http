@@ -1,0 +1,22 @@
+@base_url =  http://localhost:5000/api
+
+### Listar todas as categorias
+GET http://localhost:5000/api/categoria/listar
+
+### Cadastrar uma categoria
+POST http://localhost:5000/api/categoria/cadastrar
+Content-Type: application/json
+
+{
+    "nome": "Pessoal"
+}
+
+### Criando um usuário
+POST {{base_url}}/usuario/registrar
+Content-Type: application/json
+
+{
+    "name": "Lucas",
+    "email": "lucas@gmail.com",
+    "password": "12345"
+}

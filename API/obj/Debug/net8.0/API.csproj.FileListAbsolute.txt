@@ -1,0 +1,6 @@
+C:\Users\Vitor\Desktop\API\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\API\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\API\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\API\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\API\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
